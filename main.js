@@ -5,6 +5,7 @@ var HELLO_WORLD_STR = 'Hello world!';
 
 function main() {
   console.log(HELLO_WORLD_STR);
+  console.log('I break things!');
 }
 
 main();
