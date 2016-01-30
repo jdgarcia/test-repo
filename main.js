@@ -1,4 +1,5 @@
 // TODO: The rest of all the things
+// TODO: resolve that todo ^
 
 var HELLO_WORLD_STR = 'Hello world!';
 
