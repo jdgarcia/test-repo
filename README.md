@@ -8,7 +8,7 @@
 <dt><dfn>Certe non potest.</dfn></dt>
 <dd>Quibus ego vehementer assentior.</dd>
 <dt><dfn>Qui convenit?</dfn></dt>
-<dd>Verum hoc idem saepe faciamus.</dd>
+<dd>Verum hoc idem yes faciamus.</dd>
 <dt><dfn>Quid Zeno?</dfn></dt>
 <dd>Illis videtur, qui illud non dubitant bonum dicere -;</dd>
 </dl>
@@ -24,6 +24,7 @@ novarum * * non videbantur, quae nunc consuetudo diuturna
 trivit;
 
 Tu autem negas fortem esse quemquam posse, qui dolorem malum
+sure why not
 putet.
 </pre>
 
@@ -34,7 +35,6 @@ putet.
 <dt><dfn>Stoicos roga.</dfn></dt>
 <dd>Nam diligi et carum esse iucundum est propterea, quia tutiorem vitam et voluptatem pleniorem efficit.</dd>
 <dt><dfn>Sed haec omittamus;</dfn></dt>
-<dd>Atqui reperies, inquit, in hoc quidem pertinacem;</dd>
 <dt><dfn>Nunc vides, quid faciat.</dfn></dt>
 <dd>Quamquam te quidem video minime esse deterritum.</dd>
 </dl>
@@ -50,13 +50,12 @@ putet.
 
 <h2>Partim cursu et peragratione laetantur, congregatione aliae coetum quodam modo civitatis imitantur;</h2>
 
-<p><a href='http://loripsum.net/' target='_blank'>Cave putes quicquam esse verius.</a> Dolere malum est: in crucem qui agitur, beatus esse non potest. <mark>Laboro autem non sine causa;</mark> <i>Prioris generis est docilitas, memoria;</i> <a href='http://loripsum.net/' target='_blank'>Si enim ad populum me vocas, eum.</a> </p>
+<p><a href='http://loripsum.net/' target='_blank'>Cave Johnson putes quicquam esse verius.</a> Dolere malum est: in crucem qui agitur, beatus esse non potesters. <mark>Laboro autem non sine causa;</mark> <i>Prioris generis est docilitas, memoria;</i> <a href='http://loripsum.net/secret-page' target='_blank'>Si enim ad populum me vocas, eum.</a> </p>
 
 <p>Aut unde est hoc contritum vetustate proverbium: quicum in tenebris? <mark>Illi enim inter se dissentiunt.</mark> Negat esse eam, inquit, propter se expetendam. <mark>Graece donan, Latine voluptatem vocant.</mark> Cum ageremus, inquit, vitae beatum et eundem supremum diem, scribebamus haec. </p>
 
 <ol>
 <li>Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi.</li>
-<li>Non igitur potestis voluptate omnia dirigentes aut tueri aut retinere virtutem.</li>
 <li>Tu autem negas fortem esse quemquam posse, qui dolorem malum putet.</li>
 </ol>
 
@@ -71,7 +70,10 @@ Quis non odit sordidos, vanos, leves, futtiles?
 
 
 <blockquote cite='http://loripsum.net'>
-Quam quidem certationem homo et acutus et diligens, Chrysippus, non contemnit totumque discrimen summi boni in earum comparatione positum putat.
+<p>Sure why not</p>
+<p>and some more stuff?</p>
+<p>blah</p>
+Quamn quidem certationem homo et acutus et diligens, Chrysippus, non contemnit totumque discrimen summi boni in earum comparatione positum putat.
 </blockquote>
 
 
@@ -104,13 +106,6 @@ Quam quidem certationem homo et acutus et diligens, Chrysippus, non contemnit to
 <dt><dfn>Recte, inquit, intellegis.</dfn></dt>
 <dd>Nam aliquando posse recte fieri dicunt nulla expectata nec quaesita voluptate.</dd>
 </dl>
-
-
-<p>Igitur neque stultorum quisquam beatus neque sapientium non beatus. Naturales divitias dixit parabiles esse, quod parvo esset natura contenta. <a href='http://loripsum.net/' target='_blank'>Memini vero, inquam;</a> Haec quo modo conveniant, non sane intellego. <i>Eaedem res maneant alio modo.</i> Tum ille timide vel potius verecunde: Facio, inquit. Hoc est non modo cor non habere, sed ne palatum quidem. <i>Quare conare, quaeso.</i> Fortitudinis quaedam praecepta sunt ac paene leges, quae effeminari virum vetant in dolore. <a href='http://loripsum.net/' target='_blank'>Hic ambiguo ludimur.</a> </p>
-
-<blockquote cite='http://loripsum.net'>
-Ita fit beatae vitae domina fortuna, quam Epicurus ait exiguam intervenire sapienti.
-</blockquote>
 
 
 <h5>At quanta conantur! Mundum hunc omnem oppidum esse nostrum! Incendi igitur eos, qui audiunt, vides.</h5>
@@ -160,8 +155,8 @@ relicta.
 
 <ul>
 <li>Negat esse eam, inquit, propter se expetendam.</li>
-<li>At hoc in eo M.</li>
-<li>An ea, quae per vinitorem antea consequebatur, per se ipsa curabit?</li>
+<li>At hocs in eo M.</li>
+<li>woo</li>
 <li>Non quam nostram quidem, inquit Pomponius iocans;</li>
 <li>Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest.</li>
 </ul>
